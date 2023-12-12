@@ -14,7 +14,8 @@
 **target** - The consumption or production amount for the relevant segment for the hour. The segments are defined by the county, is_business, and product_type.
 
 **is_consumption** - Boolean for whether or not this row's target is consumption or production.
-datetime - The Estonian time in EET (UTC+2) / EEST (UTC+3). It describes the start of the 1-hour period on which target is given.
+
+**datetime** - The Estonian time in EET (UTC+2) / EEST (UTC+3). It describes the start of the 1-hour period on which target is given.
 
 **data_block_id** - All rows sharing the same data_block_id will be available at the same forecast time. This is a function of what information is available when forecasts are actually made, at 11 AM each morning. For example, if the forecast weather data_block_id for predictins made on October 31st is 100 then the historic weather data_block_id for October 31st will be 101 as the historic weather data is only actually available the next day.
 
