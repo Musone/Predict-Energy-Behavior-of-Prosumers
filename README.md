@@ -1,5 +1,5 @@
 # Predicting the Energy Behavior of Prosumers
-CPSC 340/540 Grad-Project.
+CPSC 340/540 Grad-Project.\n
 Kaggle Link: https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/overview
 
 ### Preliminary
