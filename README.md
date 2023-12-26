@@ -1,6 +1,8 @@
 # Predicting the Energy Behavior of Prosumers
 CPSC 340/540 Grad-Project.
 
+Resulting Research Paper Link: https://github.com/Musone/Predict-Energy-Behavior-of-Prosumers/blob/master/Results.pdf
+
 Data Link: https://drive.google.com/drive/folders/1TgD14QwrcnvYTQKxg2xDVbDUdWAg_G3T?usp=sharing
 
 Kaggle Link: https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/overview
